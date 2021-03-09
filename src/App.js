@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+import 'tachyons';
 import './App.css';
+import Card from './card/card';
 
 function App() {
+  const dataList = [
+    {name:"Mashrefee", age:35},
+    {name:"Sakib", age:31},
+    {name:"Mushfiq", age:30},
+    {name:"Sachin", age:43}
+  ];
+
+  const list = dataList.map((data,i)=>{
+    return(
+      <Card key={i} name={dataList[i].name} age={dataList[i].age} />
+    );
+  });
+  console.log(list);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 className="tc">Welcome to Avatar World</h1>
+      {list}
     </div>
   );
 }
