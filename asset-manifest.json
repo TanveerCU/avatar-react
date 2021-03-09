@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avatar-react/static/css/main.8fa34826.chunk.css",
+    "main.js": "/avatar-react/static/js/main.31abb871.chunk.js",
+    "main.js.map": "/avatar-react/static/js/main.31abb871.chunk.js.map",
+    "runtime-main.js": "/avatar-react/static/js/runtime-main.ad8c00b4.js",
+    "runtime-main.js.map": "/avatar-react/static/js/runtime-main.ad8c00b4.js.map",
+    "static/css/2.31461e4f.chunk.css": "/avatar-react/static/css/2.31461e4f.chunk.css",
+    "static/js/2.afa6bc69.chunk.js": "/avatar-react/static/js/2.afa6bc69.chunk.js",
+    "static/js/2.afa6bc69.chunk.js.map": "/avatar-react/static/js/2.afa6bc69.chunk.js.map",
+    "static/js/3.0a6bcf44.chunk.js": "/avatar-react/static/js/3.0a6bcf44.chunk.js",
+    "static/js/3.0a6bcf44.chunk.js.map": "/avatar-react/static/js/3.0a6bcf44.chunk.js.map",
+    "index.html": "/avatar-react/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/avatar-react/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.8fa34826.chunk.css.map": "/avatar-react/static/css/main.8fa34826.chunk.css.map",
+    "static/js/2.afa6bc69.chunk.js.LICENSE.txt": "/avatar-react/static/js/2.afa6bc69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad8c00b4.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.afa6bc69.chunk.js",
+    "static/css/main.8fa34826.chunk.css",
+    "static/js/main.31abb871.chunk.js"
+  ]
+}
